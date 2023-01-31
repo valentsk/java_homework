@@ -22,7 +22,7 @@ public class ex003 {
     static int DivNum(Integer number_one, Integer number_two) {
         return number_one / number_two;
     }
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
 
         System.out.print("Введите первое число: ");
