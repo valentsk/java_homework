@@ -77,7 +77,7 @@ public class ex03 {
     }
     public static void main(String[] args) {
         
-        Integer size = 4;
+        Integer size = 8;
         Integer[][] array = CreateArray(size);
         
         ShowArray(array);
